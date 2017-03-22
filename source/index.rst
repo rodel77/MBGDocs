@@ -1,15 +1,16 @@
-.. MBGDocs documentation master file, created by
-   sphinx-quickstart on Wed Mar 22 00:11:24 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+===
+MBG Documentation
+===
 
-Welcome to MBGDocs's documentation!
-===================================
+~~~~~
+Creating your own games
+~~~~~
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
 
+   creating/index
 
 
 Indices and tables
