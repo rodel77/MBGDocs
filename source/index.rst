@@ -1,21 +1,16 @@
-===
-MBG Documentation
-===
+============================
+MiniBoardGames Documentation
+============================
 
-~~~~~
+Contents
+========
+
 Creating your own games
-~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 5
    :titlesonly:
 
-   creating/index
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   api/index
+   configuration/index

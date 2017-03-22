@@ -1,0 +1,14 @@
+=======================
+Creating your own games
+=======================
+
+Contents
+========
+
+.. toctree::
+	:maxdepth: 2
+	:titlesonly:
+
+	setup
+	inventory-games
+	map-games
