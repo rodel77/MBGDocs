@@ -7,4 +7,3 @@ Configuration
    :titlesonly:
 
    rewards/index
-   afk/index
